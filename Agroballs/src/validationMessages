@@ -1,0 +1,5 @@
+NotNull=請填入數值,不可為空白
+NotBlank＝請填入字串， 不可為空白
+NotEmpty＝不可為空集合
+Pattern=請依要求格式輸入
+Range=輸入值請在要求的範圍內
